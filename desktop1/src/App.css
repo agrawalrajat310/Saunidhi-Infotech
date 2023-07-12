@@ -39,9 +39,8 @@
 
 /* amiInfotech_logo 1 */
 
-.logo {
-  position: absolute;
-  width: 58px;
-  height: 58px;
-  background-image: url(./logo.png);
+#logo {
+ 
+  width: 1px;
+  height: 1px;
 }

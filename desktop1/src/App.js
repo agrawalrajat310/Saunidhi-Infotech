@@ -1,11 +1,9 @@
-import "./App.css";
-
-import Homepage from "./Homepage";
+import logo from "./logo.png";
 
 function App() {
   return (
-    <div className="App">
-      <Homepage />
+    <div id="logo">
+      <img src={logo} alt="WEBSITE LOGO" />;
     </div>
   );
 }
