@@ -1,9 +1,11 @@
-import logo from "./logo.png";
+
+import logo from "./App.css";
+import Logo from "./logo.png";
 
 function App() {
   return (
-    <div id="logo">
-      <img src={logo} alt="WEBSITE LOGO" />;
+    <div className="logo">
+      <img src={Logo} alt="WEBSITE LOGO" />;
     </div>
   );
 }
