@@ -1,10 +1,11 @@
+// import Logo from "./logo.png";
 
-import Logo from "./logo.png";
+import Homepage from "./Homepage";
 
 function App() {
   return (
-    <div className="logo">
-    
+    <div>
+      <Homepage />
     </div>
   );
 }
