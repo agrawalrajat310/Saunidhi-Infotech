@@ -3,7 +3,7 @@ import vec from "./Vector.png";
 
 const Homepage = () => {
   return (
-    <div>
+    <div id="home">
       <img src={vec} alt="background logo" />
     </div>
   );
