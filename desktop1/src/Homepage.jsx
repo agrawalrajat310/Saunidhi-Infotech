@@ -1,9 +1,10 @@
 import React from "react";
+import vec from "./Vector.png";
 
 const Homepage = () => {
   return (
     <div>
-      <img src="./Vector.png" alt="background logo" />
+      <img src={vec} alt="background logo" />
     </div>
   );
 };
