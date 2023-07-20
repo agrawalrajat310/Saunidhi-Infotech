@@ -9,18 +9,16 @@ const Homepage = () => {
       <img className="bg" src={vec} alt="background logo" />
       <img className="logo1" src={logo} alt="logo" />
 
-      
-    
-
-    <div id="head">
-<div>SERVICES</div>
-<div>SOLUTIONS</div>
-<div>PORTFOLIO</div>
-<div>COMPANY</div>
-<div>BLOG</div>
-<div>CONTACT US</div>
-
-    </div>
+      <div id="head">
+        <div>SERVICES</div>
+        <div>SOLUTIONS</div>
+        <div>PORTFOLIO</div>
+        <div>COMPANY</div>
+        <div>BLOG</div>
+        <div className="cont">
+          <div>CONTACT US</div>
+        </div>
+      </div>
     </div>
   );
 };
