@@ -1,6 +1,5 @@
 .bg {
   width: 100%;
-  
 }
 
 .logo1 {
@@ -13,7 +12,6 @@
 }
 
 #head {
- 
   display: flex;
   width: 60%;
   height: 7%;
@@ -22,23 +20,23 @@
   left: 550px;
   color: white;
   font-size: large;
-justify-content: space-evenly;
-
-
+  justify-content: space-evenly;
 }
 
 .cont {
   /* border: 1px solid red; */
   background-color: white;
-  color: darkblue; 
-   border-radius: 13px; 
-  width: 16%;
+  color: darkblue;
+  border-radius: 13px;
   text-align: center;
   font-weight: 500;
   margin-top: -10px;
-  padding: 3px;
-
+  padding: 5px;
 }
+
+
+
+
 
 
 
