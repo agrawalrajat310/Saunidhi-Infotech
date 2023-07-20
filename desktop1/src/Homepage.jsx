@@ -15,9 +15,8 @@ const Homepage = () => {
         <div>PORTFOLIO</div>
         <div>COMPANY</div>
         <div>BLOG</div>
-        <div className="cont">
-          <div>CONTACT US</div>
-        </div>
+
+        <div className="cont">CONTACT US</div>
       </div>
     </div>
   );

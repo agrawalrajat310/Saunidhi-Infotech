@@ -34,8 +34,9 @@ justify-content: space-evenly;
    border-radius: 13px; 
   width: 16%;
   text-align: center;
-  height: 80%;
   font-weight: 500;
+  margin-top: -10px;
+  padding: 3px;
 
 }
 
