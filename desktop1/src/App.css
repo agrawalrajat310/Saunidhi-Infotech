@@ -1,3 +1,7 @@
+.bg {
+  width: 100%;
+}
+
 .logo1 {
   /* border: 1px solid red; */
   width: 50px;
@@ -6,9 +10,20 @@
   top: 30px;
   left: 40px;
 }
-.bg {
-  width: 100%;
+
+#head {
+  border: 1px solid red;
+  display: flex;
+  width: 70%;
+  height: 7%;
+  position: absolute;
+  top: 38px;
+  left: 430px;
+  color: white; 
 }
+
+
+
 
 
 
