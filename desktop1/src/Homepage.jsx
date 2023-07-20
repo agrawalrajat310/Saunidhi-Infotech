@@ -1,10 +1,13 @@
 import React from "react";
+import logo from "./logo.png";
 import vec from "./Vector.png";
+import "./App.css";
 
 const Homepage = () => {
   return (
     <div id="home">
-      <img src={vec} alt="background logo" />
+      <img className="bg" src={vec} alt="background logo" />
+      <img className="logo1" src={logo} alt="logo" />
     </div>
   );
 };
