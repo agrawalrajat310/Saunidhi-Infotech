@@ -17,6 +17,12 @@ const Homepage = () => {
         <div>BLOG</div>
         <div className="cont">CONTACT US</div>
       </div>
+
+      <div id="text">
+        <h1 className="first">Business</h1>
+        <h1 className="second">automation</h1>
+        <h3 className="third">for enterprises</h3>
+      </div>
     </div>
   );
 };
