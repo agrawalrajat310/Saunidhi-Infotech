@@ -26,9 +26,13 @@ const Homepage = () => {
 
       <div id="para">
         <p>
-          We are a software development company helping
+          We are a software development company helping businesses maximize
+          their potential with business process automation and AI / IoT
+          solutions. Our engineering team brings to the table years of
+          experience in outsourced software development as well as a portfolio
+          of successfully delivered machine learning and digital transformation
+          products.
         </p>
-
       </div>
     </div>
   );
