@@ -35,18 +35,9 @@ const Homepage = () => {
         </p>
       </div>
 
-<div id="quote">
-  <button>GET A FREE QUOTE</button>
-</div>
-
-
-
-
-
-
-
-
-
+      <div id="quote">
+        <button>GET A FREE QUOTE</button>
+      </div>
     </div>
   );
 };

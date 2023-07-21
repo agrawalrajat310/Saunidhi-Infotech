@@ -92,7 +92,7 @@
   /* border: 1px solid green; */
   position: absolute;
   color: white;
-  width: 600px; 
+  width: 600px;
   margin-top: -500px;
   margin-left: 190px;
   /* padding-bottom: 50px; */
@@ -106,33 +106,22 @@
 /* quote button */
 
 #quote {
-  border: 1px solid yellow;
-color: white;
+  /* border: 1px solid yellow; */
+  color: white;
+  position: absolute;
+  margin-top: -150px;
+  margin-left: 280px;
 }
 
+#quote > button {
+  padding: 15px 30px;
+  border-radius: 25px;
+  color: darkblue;
+  font-weight: bold;
+  font-size: 17px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* default */
+/* default css */
 
 .App {
   text-align: center;
