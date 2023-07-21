@@ -23,6 +23,13 @@ const Homepage = () => {
         <h1 className="second">automation</h1>
         <h3 className="third">for enterprises</h3>
       </div>
+
+      <div id="para">
+        <p>
+          We are a software development company helping
+        </p>
+
+      </div>
     </div>
   );
 };

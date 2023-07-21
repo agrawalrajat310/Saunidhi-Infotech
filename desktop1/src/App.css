@@ -38,7 +38,7 @@
   margin-bottom: 10px;
 }
 
-/* text css */
+/* business text css */
 
 /* #text {
   width: 100%;
@@ -85,6 +85,44 @@
   font-size: 70px;
   font-weight: 350;
 }
+
+/* Para text css */
+
+#para {
+  border: 1px solid green;
+  position: absolute;
+  color: white;
+  width: 600px;
+  margin-top: -500px;
+  margin-left: 190px;
+  padding-bottom: 300px;
+  /* padding: 150px 50px 150px 0px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* default */
 
