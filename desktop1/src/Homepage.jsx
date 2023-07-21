@@ -34,6 +34,19 @@ const Homepage = () => {
           products.
         </p>
       </div>
+
+<div id="quote">
+  <button>GET A FREE QUOTE</button>
+</div>
+
+
+
+
+
+
+
+
+
     </div>
   );
 };

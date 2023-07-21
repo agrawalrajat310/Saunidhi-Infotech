@@ -89,18 +89,26 @@
 /* Para text css */
 
 #para {
-  border: 1px solid green;
+  /* border: 1px solid green; */
   position: absolute;
   color: white;
-  width: 600px;
+  width: 600px; 
   margin-top: -500px;
   margin-left: 190px;
-  padding-bottom: 300px;
+  /* padding-bottom: 50px; */
   /* padding: 150px 50px 150px 0px; */
 }
 
+#para > p {
+  font-size: 25px;
+}
 
+/* quote button */
 
+#quote {
+  border: 1px solid yellow;
+color: white;
+}
 
 
 
