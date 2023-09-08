@@ -64,7 +64,7 @@ const UploadDoc = () => {
       {/* Button for Previous section */}
       <div>
         <button className="w-[122px] text-center text-white text-base font-normal leading-tight">
-          Previous Section
+          Previous Section{" "}
         </button>
         <button className="w-[200px] text-center text-white text-base font-normal leading-tight">
           Proceed to Preview Section
