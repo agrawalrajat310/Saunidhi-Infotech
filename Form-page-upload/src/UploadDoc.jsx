@@ -30,21 +30,48 @@ const UploadDoc = () => {
       {/* candidate photo Block  */}
 
       <div>
-        <h4 className="w-[317px] text-neutral-800 text-[13px] font-normal leading-[21.12px]">
+        <h4 className="w-[317px] text-neutral-800 text-[13px] font-normal leading-[21.12px] mt-16 ml-10">
           Candidate's Photograph (with 80% face without mask)
         </h4>
 
-        <h5 className="w-[155px] text-indigo-500 text-xs font-normal leading-[21.12px]">
+        <h5 className="w-[155px] text-indigo-500 text-xs font-normal leading-[21.12px] ml-10">
           Accepted formats .jpeg .jpg
         </h5>
 
-        <h4 className="w-[201px] text-neutral-800 text-xs font-normal leading-[21.12px]">
+        <h4 className="w-[201px] text-neutral-800 text-xs font-normal leading-[21.12px] mt-8 ml-10">
           Candidate's Government issued ID{" "}
         </h4>
 
-        <h5 className="w-[155px] text-indigo-500 text-xs font-normal leading-[21.12px]">
+        <h5 className="w-[155px] text-indigo-500 text-xs font-normal leading-[21.12px] ml-10">
           Accepted formats .jpeg .jpg
         </h5>
+
+<h4 className="w-[201px] text-neutral-800 text-xs font-normal leading-[21.12px] mt-8 ml-10">Candidate's Last year Marksheet</h4>
+
+
+<h5 className="w-[155px] text-indigo-500 text-xs font-normal leading-[21.12px] ml-10">Accepted formats .jpeg .jpg </h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       </div>
 
       {/* Button for Previous section */}
