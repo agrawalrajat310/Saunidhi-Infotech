@@ -1,5 +1,7 @@
 import React from "react";
 
+import UploadDoc from "./UploadDoc";
+
 export default function App() {
-  return <h1>hi</h1>;
+  return <UploadDoc />;
 }
