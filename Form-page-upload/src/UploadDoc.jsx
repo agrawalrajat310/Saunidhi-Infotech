@@ -18,16 +18,22 @@ const UploadDoc = () => {
           Photo and Documents are required in .jpg or .jpeg image format.
         </h4>
 
+        {/* Select File button */}
+
         <h4 className="w-[333px] text-red-600 text-sm font-normal leading-7 ml-10">
           File size of photo must be within 10kb to 200kb limit.
         </h4>
 
+        {/* Select File button */}
+
         <h4 className="w-[351px] text-red-600 text-[13px] font-normal leading-7 ml-10">
           File size of Documents must be within 600Kb to 2Mb limit.
         </h4>
+
+        {/* Select File button */}
       </div>
 
-      {/* candidate photo Block  */}
+      {/* Candidate Photo Block  */}
 
       <div>
         <h4 className="w-[317px] text-neutral-800 text-[13px] font-normal leading-[21.12px] mt-16 ml-10">
@@ -57,28 +63,13 @@ const UploadDoc = () => {
 
       {/* Button for Previous section */}
       <div>
-        <button className="w-[122px] text-center text-white text-base font-normal leading-tight">Previous Section</button>
-        <button className="w-[200px] text-center text-white text-base font-normal leading-tight">Proceed to Preview Section</button>
+        <button className="w-[122px] text-center text-white text-base font-normal leading-tight">
+          Previous Section
+        </button>
+        <button className="w-[200px] text-center text-white text-base font-normal leading-tight">
+          Proceed to Preview Section
+        </button>
       </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     </div>
   );
 };
