@@ -4,6 +4,8 @@ const UploadDoc = () => {
   return (
     <div>
       <div>
+        {/* First Block */}
+
         <h2 className="w-[196px] text-amber-500 text-[22px] font-normal leading-7 mt-20 ml-10">
           Upload Documents
         </h2>
