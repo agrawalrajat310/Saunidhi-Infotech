@@ -52,24 +52,6 @@ const UploadDoc = () => {
             </button>
           </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
-
           <div className=" flex flex-wrap ">
             <div className="w-full md:w-[50%]">
               <h4 className=" text-neutral-800 text-xs font-normal leading-[21.12px] ">
